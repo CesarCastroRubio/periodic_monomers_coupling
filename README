@@ -1,0 +1,5 @@
+1) directory label l1_*, l2_*, l3_* is due to different datasets
+
+2) some directories may have different polymerization degree files. For example l3_p47 has both degree polymerization 2 (minimized_2.xyz) and degree polymerization 4 (minimized_4.xyz) because I needed longer oligomer. I included both but I'd recommend using minimized_2.xyz since it is used most often
+
+3) l1_p1 and l3_p1. I think it is the only duplicate

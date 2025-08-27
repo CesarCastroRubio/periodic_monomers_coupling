@@ -5,3 +5,6 @@
 3) l1_p1 and l3_p1. I think it is the only duplicate
 
 4) directory_key_smiles.dat contains directory to smiles string information
+
+5) added dimerized smiles that should match to all minimized_2.xyz files. You can generate the dimer from:
+python polymerize_dp.py <SMILES> <Degree of Polymerization>
